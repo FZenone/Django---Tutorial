@@ -25,7 +25,7 @@ SECRET_KEY = ')xj0)%#bbu)!md0k9@&i6^^ohmw%rr^$##kjl@(^4(_jq^3d3#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['adjective-noun-number.herokuapp.com']
+ALLOWED_HOSTS = ['boiling-mountain-25931.herokuapp.com']
 
 import django_heroku
 django_heroku.settings(locals())
